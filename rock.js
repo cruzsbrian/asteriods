@@ -37,8 +37,8 @@ function updateRock() {
 	if (hitShip) {
 		running = false;
 		alert("You suck.");
-		alert("Now go do something productive with your life.");
-		alert("Or don't. I don't really care. I'm just a pop-up.");
+		//alert("Now go do something productive with your life.");
+		//alert("Or don't. I don't really care. I'm just a pop-up.");
 		location.reload();
 	}
 
